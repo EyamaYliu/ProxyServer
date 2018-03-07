@@ -114,3 +114,4 @@ int main(int argc, char const *argv[])
 
 }
 
+//Use while loop from accept and connect to all the send stuff around process in order to get it working
